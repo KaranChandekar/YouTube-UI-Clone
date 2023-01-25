@@ -533,3 +533,45 @@ hr {
     width: 24px;
   }
 }
+
+@media (max-width: 425px) {
+  .sidebar {
+    display: none;
+  }
+
+  .header-navbar,
+  .main-content {
+    left: 0;
+  }
+
+  .search-container,
+  .user-d {
+    width: 40px;
+  }
+
+  .search-container button {
+    height: 40px;
+    width: 40px;
+    border: none;
+    background-color: #ffffff;
+  }
+
+  .search-btn {
+    height: 24px;
+    width: 24px;
+  }
+
+  .user-btn,
+  .guide-button-box {
+    display: none;
+  }
+
+  .btm-nav {
+    display: flex;
+    z-index: 1;
+  }
+
+  .videos-container {
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  }
+}
