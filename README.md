@@ -44,11 +44,11 @@ On small screen size
 
 ![yt2](https://user-images.githubusercontent.com/93200960/214604463-ed98d333-02dc-47f3-9a14-3c449f2ca7ac.png)
 
-## Acknowledgments
+<br />
 
-- Many thanks to [@bradtraversy](https://github.com/bradtraversy) for his awesome courses - _i will not fail you sensei_
-- Thanks to [@torvalds](https://github.com/torvalds) For Making the world a better place
-- And To anyone reading this... _You're awesome!_
+## Acknowledgement
+
+- To anyone who is reading this... _You're awesome!_
 
 That being said
 _<p align="center">To the Front... to the Back... End to End... cut no slack. Making ends meet. lol</p>_
