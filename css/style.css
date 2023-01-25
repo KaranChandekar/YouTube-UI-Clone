@@ -489,3 +489,15 @@ hr {
     display: grid;
   }
 }
+
+@media (max-width: 807px) and (min-width: 656px) {
+  .sidebar,
+  .btm-nav {
+    display: none;
+  }
+
+  .header-navbar,
+  .main-content {
+    left: 0;
+  }
+}
