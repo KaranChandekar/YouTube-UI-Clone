@@ -447,3 +447,45 @@ hr {
   color: rgb(96, 96, 96);
   font: inherit;
 }
+
+/**********RESPONSIVENESS CODE**********/
+
+@media (min-width: 1331px) {
+  .sidebar-category-sml,
+  .btm-nav {
+    display: none;
+  }
+}
+
+@media (max-width: 1330px) {
+  .sidebar {
+    height: 100%;
+    width: 72px;
+  }
+
+  .sidebar:hover {
+    overflow-y: hidden;
+  }
+
+  .sidebar-categories,
+  .sidebar-bottom-info,
+  .subscription-categories,
+  hr,
+  .btm-nav {
+    display: none;
+  }
+
+  .header-navbar,
+  .main-content {
+    left: 72px;
+  }
+
+  .user-icon {
+    padding: 0;
+    margin-bottom: 6px;
+  }
+
+  .sidebar-category-sml {
+    display: grid;
+  }
+}
