@@ -34,6 +34,16 @@ P.S. JavaScript will be added to this in Future updates!!
 
 ## Screenshots
 
+![yt](https://user-images.githubusercontent.com/93200960/214604242-81cf792c-bd27-42f3-8c14-a1225944479d.png)
+
+On medium screen size
+
+![yt1](https://user-images.githubusercontent.com/93200960/214604396-e53ef5ab-7993-4525-aa38-31100679c764.png)
+
+On small screen size
+
+![yt2](https://user-images.githubusercontent.com/93200960/214604463-ed98d333-02dc-47f3-9a14-3c449f2ca7ac.png)
+
 ## Acknowledgments
 
 - Many thanks to [@bradtraversy](https://github.com/bradtraversy) for his awesome courses - _i will not fail you sensei_
